@@ -6,9 +6,9 @@ The PyTorch implementation of GOODLE for carbon allotrope using the orbital geom
 
 PyTorch (https://pytorch.org/)
 
-PyTorch Lightning (https://www.pytorchlightning.ai/)
+NumPy (https://numpy.org/)
 
-PyTorch Geometric (https://github.com/rusty1s/pytorch_geometric)
+Wandb (https://wandb.ai/)
 
 ## Implementation
 
